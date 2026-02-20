@@ -4,7 +4,17 @@
       "Bash(ng version:*)",
       "Bash(npm:*)",
       "Bash(node --version:*)",
-      "Bash(npx @angular/cli@latest new:*)"
+      "Bash(npx @angular/cli@latest new:*)",
+      "Bash(git checkout:*)",
+      "Bash(npx ng:*)",
+      "WebFetch(domain:open-meteo.com)",
+      "Bash(curl:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(npx jest:*)"
     ]
   }
 }
