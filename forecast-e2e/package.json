@@ -1,0 +1,13 @@
+{
+  "name": "forecast-e2e",
+  "version": "1.0.0",
+  "description": "Cypress e2e tests for the Forecast component",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.10.0"
+  }
+}
