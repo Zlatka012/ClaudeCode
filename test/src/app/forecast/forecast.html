@@ -1,0 +1,7 @@
+@if (loading()) {
+  <p>Loading weather...</p>
+} @else if (error()) {
+  <p>{{ error() }}</p>
+} @else {
+  <p>it's {{ weatherDescription() }}</p>
+}
